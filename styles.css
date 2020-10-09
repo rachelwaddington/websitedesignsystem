@@ -1,0 +1,201 @@
+
+.nav {
+  background-color: #CCCCCC;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  font-family: "Helvetica Neue";
+  text-transform: uppercase;
+}
+
+.nav a {
+    display: inline-block;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.nav a:hover {
+    color: white;
+    background-color: #bfbfbf;
+}
+
+header {
+  background-color: #CC99FF;
+}
+
+.colourblocks {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.colourlilac {
+  background-color: #cc99ff;
+  text-align: center;
+  padding: 3%;
+  margin: 1%;
+}
+
+.colourpurple {
+  background-color: #9999ff;
+  text-align: center;
+  padding: 3%;
+  margin: 1%;
+}
+
+.coloursmurf {
+  background-color: #85e0e0;
+  text-align: center;
+  padding: 3%;
+  margin: 1%;
+}
+
+.colourblue {
+  background-color: #66CCFF;
+  text-align: center;
+  padding: 3%;
+  margin: 1%;
+}
+
+.colourname {
+  font-family: Helvetica Neue;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: white;
+}
+
+.colourid {
+  font-family: Helvetica Neue;
+  font-size: 9px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: white;
+}
+
+.title {
+  background-color: #e6e6e6;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  
+}
+h1 {
+  font-family: Futura;
+  font-weight: 100;
+  background-color: #CC99FF;
+  text-align: center;
+  line-height: 100px;
+  text-transform: uppercase;
+  height: 80px;
+  margin-top: 90px;
+}
+
+h3 {
+  margin: 10px;
+  font-size: 23px;
+  text-decoration: underline;
+}
+
+h4 {
+  font-family: Futura;
+  font-weight: 100;
+}
+
+h5 {
+  font-family: Futura;
+  font-weight: 100;
+  font-size: 12px;
+  text-transform: uppercase;
+  line-height: 30px;
+  margin: 10px;
+}
+
+h6 {
+  font-family: "Helvetica Neue";
+  font-weight: 300;
+  font-size: 12px;
+}
+
+p {
+  font-family: "Helvetica Neue";
+}
+
+
+.container {
+  background-color: #FFFFFF;
+  border: 2px;
+  border-style: solid;
+  border-color: #e6e6e6;
+  margin-left: auto;
+  margin-right: auto;
+  width: 580px;
+  padding: 10px;
+  line-height: 3px;
+}
+
+.container li {
+  line-height: 20px;
+  font-family: "Helvetica Neue";
+  font-weight: 300;
+  font-size: 12px;
+}
+
+.futura {
+  font-family: Futura;
+  margin: 10px;
+}
+
+.satisfy {
+  font-family: Satisfy;
+  margin: 10px;
+
+}
+
+.quicksand {
+  font-family: Quicksand;
+  margin: 10px;
+}
+
+.buttonlinks li {
+  display: inline-block;
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+}
+
+.button1 a {
+  background-color: #e6e6e6;
+  font-family: "Quicksand";
+  font-size: 14px;
+  padding: 20px;
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+}
+
+.button1 a:hover {
+  background-color: #9999ff;
+}
+
+
+.button2 a {
+  background-color: #e6e6e6;
+  font-family: "Futura";
+  font-weight: 200;
+  font-size: 14px;
+  padding: 20px;
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+}
+
+.button2 a:hover {
+  background-color: #85E0E0;
+}
